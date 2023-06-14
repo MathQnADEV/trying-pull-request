@@ -9,3 +9,6 @@ console.log(multiplyNumber(2, 2))
 
 const devide = (a, b) => a / b
 console.log(multiplyNumber(4, 2))
+
+const mathSin = (number) => Math.sin(number)
+console.log(mathSin(10))
